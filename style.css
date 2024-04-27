@@ -98,9 +98,10 @@ footer{
     background: url(images/bg-desktop.svg);
     background-color: var(--violet);
     background-repeat: no-repeat;
+    padding: 1rem
   }
   .container{
-    width: 85%;
+    width: 90%;
     gap: 0;
   }
   .logo{
@@ -111,14 +112,14 @@ footer{
     flex-direction: row;
     /* align-items: center; */
     justify-content: space-between;
-    margin-block: 6rem 2rem;
+    margin-block: 6.5rem 1rem;
   }
   .hero-image__container{
     width: 51%;
     margin: 0;
   }
   .hero-content{
-    width: 40%;
+    width: 42%;
   }
   h1{
     text-align: left;
