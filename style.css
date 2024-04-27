@@ -87,6 +87,7 @@ footer{
 .icon{
   font-size: 20px;
   cursor: pointer;
+  color: white;
 }
 .icon:hover{
   color: var(--soft-magenta);
@@ -97,7 +98,6 @@ footer{
     background: url(images/bg-desktop.svg);
     background-color: var(--violet);
     background-repeat: no-repeat;
-    padding: 0;
   }
   .container{
     width: 85%;
